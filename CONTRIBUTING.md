@@ -8,7 +8,7 @@ If you want to discuss on something then feel free to present your opinions, vie
 
 - Open issue regarding proposed change.
 - If your proposed change is approved, Fork this repo and do changes.
-- Open PR against latest *development* branch. Add nice description in PR.
+- Open PR against latest *development* branch. Add nice description in PR. 
 - You're done!
 
 ### Code contribution checklist
